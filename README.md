@@ -1,2 +1,2 @@
-# VARIEDADES-B-Y-S
-PUBLICO
+# programador
+github page
